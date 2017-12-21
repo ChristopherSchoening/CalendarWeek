@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--app-->
+    <string name="app_name">CalendarWeek</string>
+    <string name="author" translatable="false">Christopher Schöning</string>
+
+    <!--Notifications-->
+    <string name="notification_channel_label">CalendarWeek</string>
+    <string name="current_weak">Current Week :</string>
+    <string name="checkbox_label">Show current week as notification</string>
+    <string name="checkbox_summaryOn">Shown as Notification</string>
+    <string name="checkbox_summaryOff">Not shown as Notification</string>
+
+    <!--AboutActivity-->
+    <string name="developed_by_text">Developed by Christopher Schöning.</string>
+    <string name="material_design_hyperlink_text">Uses Google\'s Material Design Icons</string>
+    <string name="support_development_button">Support the Developer</string>
+    <string name="title_activity_support_developer" translatable="false">SupportDeveloperActivity</string>
+    <string name="support_development_label">Support Development</string>
+    <string name="about_activity_label">About</string>
+    <string name="rate_app_label">Rate the App</string>
+    <string name="paypal_label">Donate via PayPal</string>
+    <string name="rate_button_description">Button to rate the app in the play store.</string>
+</resources>

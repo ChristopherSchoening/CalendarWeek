@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="fill_parent" android:layout_width="fill_parent">
+    <CheckBoxPreference
+        android:id="@+id/show_notification_checkbox"
+        android:key="show_notification_checkbox"
+        android:title="@string/checkbox_label"
+        android:defaultValue="false"
+        android:summaryOn="@string/checkbox_summaryOn"
+        android:summaryOff="@string/checkbox_summaryOff"
+        />
+</PreferenceScreen>

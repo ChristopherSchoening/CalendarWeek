@@ -1,0 +1,21 @@
+<resources>
+    <!--app-->
+    <string name="app_name">KalenderWoche</string>
+
+    <!--Notifications-->
+    <string name="notification_channel_label">KalenderWoche</string>
+    <string name="current_weak">Aktuelle Kalenderwoche :</string>
+    <string name="checkbox_label">Zeige Kalenderwoche als Benachrichtigung</string>
+    <string name="checkbox_summaryOn">Wird als Benachrichtigung angezeigt</string>
+    <string name="checkbox_summaryOff">Wird nicht als Benachrichtigung angezeigt</string>
+
+    <!--AboutActivity-->
+    <string name="developed_by_text">Entwickelt von Christopher Schöning.</string>
+    <string name="material_design_hyperlink_text">Nutzt Googles Material Design Icons</string>
+    <string name="support_development_button">Den Entwickler unterstützen</string>
+    <string name="support_development_label">Entwicklung unterstützen</string>
+    <string name="about_activity_label">Über</string>
+    <string name="rate_app_label">Bewerte die App</string>
+    <string name="paypal_label">Spende via PayPal</string>
+    <string name="rate_button_description">Knopf um die App im PlayStore zu bewerten.</string>
+</resources>
