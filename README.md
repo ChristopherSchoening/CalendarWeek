@@ -1,2 +1,2 @@
 # CalendarWeek
-A simple calendar app for android
+A simple app for android that shows the calendarweek.
